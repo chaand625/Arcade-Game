@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.score{
+    padding: 10px;
+    border: thin solid black;
+    position: fixed;
+    width: 100px;
+    top: 20px;
+    right: 30px;
+}
+
