@@ -34,6 +34,8 @@
 
 + For increasing fun among the players I have also added score to the game
 
++ I have given random speeds such that speed doesn't go out of control
+
 #### Conclusion
 
     I have enjoyed developing this game. It is very interesting. I have learned few more concepts in the Object Oriented JavaScript.
