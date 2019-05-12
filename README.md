@@ -40,3 +40,6 @@
 
     I have enjoyed developing this game. It is very interesting. I have learned few more concepts in the Object Oriented JavaScript.
 
+
+    I have learned a lot of git commands.
+
